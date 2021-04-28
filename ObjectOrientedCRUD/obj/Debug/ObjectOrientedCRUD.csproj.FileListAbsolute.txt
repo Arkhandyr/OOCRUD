@@ -1,0 +1,14 @@
+C:\Users\Arkhandyr\source\repos\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.csprojAssemblyReference.cache
+C:\Users\Arkhandyr\source\repos\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Arkhandyr\source\repos\ObjectOrientedCRUD\ObjectOrientedCRUD\bin\Debug\ObjectOrientedCRUD.exe.config
+C:\Users\Arkhandyr\source\repos\ObjectOrientedCRUD\ObjectOrientedCRUD\bin\Debug\ObjectOrientedCRUD.exe
+C:\Users\Arkhandyr\source\repos\ObjectOrientedCRUD\ObjectOrientedCRUD\bin\Debug\ObjectOrientedCRUD.pdb
+C:\Users\Arkhandyr\source\repos\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.exe
+C:\Users\Arkhandyr\source\repos\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.pdb
+C:\Users\victo\Downloads\drive-download-20210427T173311Z-001\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.csprojAssemblyReference.cache
+C:\Users\victo\Downloads\drive-download-20210427T173311Z-001\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\drive-download-20210427T173311Z-001\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.exe
+C:\Users\victo\Downloads\drive-download-20210427T173311Z-001\ObjectOrientedCRUD\ObjectOrientedCRUD\obj\Debug\ObjectOrientedCRUD.pdb
+C:\Users\victo\Downloads\drive-download-20210427T173311Z-001\ObjectOrientedCRUD\ObjectOrientedCRUD\bin\Debug\ObjectOrientedCRUD.exe.config
+C:\Users\victo\Downloads\drive-download-20210427T173311Z-001\ObjectOrientedCRUD\ObjectOrientedCRUD\bin\Debug\ObjectOrientedCRUD.exe
+C:\Users\victo\Downloads\drive-download-20210427T173311Z-001\ObjectOrientedCRUD\ObjectOrientedCRUD\bin\Debug\ObjectOrientedCRUD.pdb
